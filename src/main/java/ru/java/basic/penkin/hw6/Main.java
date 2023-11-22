@@ -1,6 +1,6 @@
 package ru.java.basic.penkin.hw6;
 
-public class Main {          // В гитхаб master
+public class Main {          // В гитхаб vetka1
 
     public static void main(String[] args) {
         Plate plate = new Plate(50);

@@ -1,6 +1,6 @@
 package ru.java.basic.penkin.hw6;
 
-public class Cat {          // В гитхаб master
+public class Cat {          // В гитхаб vetka1
     private String name;
     private int appetite;
     private boolean satiety;

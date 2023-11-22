@@ -1,6 +1,6 @@
 package ru.java.basic.penkin.hw6;
 
-public class Plate {         // В гитхаб master
+public class Plate {         // В гитхаб vetka1
 
     private int maxFood;
     private int currentFood;
